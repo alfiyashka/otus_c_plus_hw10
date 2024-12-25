@@ -1,0 +1,6 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+#define OTUS_ASYNC_VERSION "@asynclib_VERSION@"
+
+#endif // VERSION_H
